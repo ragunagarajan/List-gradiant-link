@@ -1,0 +1,23 @@
+/* inside position */
+ul li {
+	list-style-position:outside;
+}
+/* Outside position */
+ol li {
+	list-style-position:inside;
+}
+a:link {
+	color:yellow;
+}
+a:visited {
+	color:red;
+}
+a:active {
+	color:powderblue;
+}
+a:hover {
+	color:green;
+}
+a {
+	font-size:50px;
+}
